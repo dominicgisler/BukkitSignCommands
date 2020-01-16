@@ -1,4 +1,4 @@
-package io.github.dominicgisler;
+package io.github.dominicgisler.signcommands;
 
 import org.bukkit.ChatColor;
 import org.bukkit.block.Block;
