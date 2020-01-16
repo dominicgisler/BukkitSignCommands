@@ -1,0 +1,7 @@
+name: SignCommands
+version: ${project.version}
+main: io.github.dominicgisler.signcommands.SignCommands
+api-version: 1.13
+authors: [Dominic Gisler]
+description: Allows commands on signs
+website: dominicgisler.github.io
